@@ -21,29 +21,26 @@ module.exports = {
                 title: 'Linux',
                 collapsable: true,
                 children: [
-                    '/',
-                    '/siderPage/one/',
-                    '/siderPage/one/two.md',
-                    '/siderPage/one/three.md',
+                    '/siderPage/linux/'
                 ]
             },
             {
                 title: 'JavaScript',
                 children: [
-                    "/siderPage/two/",
-                    "/siderPage/two/two.md",
-                    "/siderPage/two/three.md",
-                    "/siderPage/two/four.md",
-                    "/siderPage/two/five.md"
+                    "/siderPage/javascript/",
+                    "/siderPage/javascript/two.md",
+                    "/siderPage/javascript/three.md",
+                    "/siderPage/javascript/four.md",
+                    "/siderPage/javascript/five.md"
                 ]
             },
             {
                 title: 'Vue',
-                children: [ "/siderPage/two/" ]
+                children: [ "/siderPage/vue/" ]
             },
             {
                 title: 'Vuex',
-                children: [ "/siderPage/two/" ]
+                children: [ "/siderPage/vuex/" ]
             },
             {
                 title: '包罗万象',
