@@ -13,7 +13,7 @@ module.exports = {
     },
     themeConfig: {
         nav: [
-            { text: '首页', link: '/siderPage/linux/'}
+            { text: '首页', link: '/siderPage/javascript/'}
             // { text: '指南', link: '/siderPage/linux/1' },
             // { text: '学习', link: '/siderPage/linux/2' }
         ],
