@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/siderPage/linux/',
     title: "DaiSX-Web开发的那些事儿...",
     markdown: {
         // markdown-it-anchor 的选项
