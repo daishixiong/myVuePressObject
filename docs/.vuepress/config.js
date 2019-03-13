@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/siderPage/linux/',
+    // base: '/siderPage/linux/',
     title: "DaiSX-Web开发的那些事儿...",
     markdown: {
         // markdown-it-anchor 的选项
@@ -13,9 +13,9 @@ module.exports = {
     },
     themeConfig: {
         nav: [
-            { text: '首页', link: 'http://www.baidu.com'},
-            { text: '指南', link: '/siderPage/' },
-            { text: '学习', link: 'https://google.com' },
+            { text: '首页', link: '/siderPage/linux/'},
+            // { text: '指南', link: '/siderPage/linux/1' },
+            // { text: '学习', link: '/siderPage/linux/2' }
         ],
         sidebar: [
             {
