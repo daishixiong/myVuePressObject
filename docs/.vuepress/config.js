@@ -33,16 +33,16 @@ module.exports = {
                     "/siderPage/javascript/four.md",
                     "/siderPage/javascript/five.md"
                 ]
-            },
-            {
+            }, {
                 title: 'Vue',
                 children: [ "/siderPage/vue/" ]
-            },
-            {
+            }, {
                 title: 'Vuex',
                 children: [ "/siderPage/vuex/" ]
-            },
-            {
+            }, {
+                title: 'Nginx',
+                children: [ "/siderPage/nginx/" ]
+            }, {
                 title: '包罗万象',
                 children: [ "/siderPage/cover/" ]
             }
