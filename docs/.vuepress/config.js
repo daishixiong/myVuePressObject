@@ -13,7 +13,7 @@ module.exports = {
     },
     themeConfig: {
         nav: [
-            { text: '首页', link: '/siderPage/linux/'},
+            { text: '首页', link: '/siderPage/linux/'}
             // { text: '指南', link: '/siderPage/linux/1' },
             // { text: '学习', link: '/siderPage/linux/2' }
         ],
@@ -22,7 +22,7 @@ module.exports = {
                 title: 'Linux',
                 collapsable: true,
                 children: [
-                    '/siderPage/linux/'
+                    '/'
                 ]
             },
             {
