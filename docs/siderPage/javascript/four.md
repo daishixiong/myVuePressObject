@@ -44,10 +44,10 @@ let qsort = function(arr) {
 - 思路分析:
 ```javascript
      var insersort = function(arr) {
-         for(i=1;i<10;i++){
+         for(i=1;i<10;i++) {
              temp = arr[i];
              j = i;
-             while(j > 0 && arr[j-1] > temp){
+             while(j > 0 && arr[j-1] > temp) {
                  arr[j] = arr[j-1];
                  j--;
              }
@@ -57,9 +57,8 @@ let qsort = function(arr) {
      }
 ```
 
-#### 二分法排序
-- 思路分析:
-```javascript
-```
+[//]: 二分法排序
+[//]: 思路分析:
+[//]: javascript
 
 
