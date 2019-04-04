@@ -21,7 +21,7 @@
        var fruits = ["Banana", "Orange", "Apple", "Mango"];
        fruits.splice(2,1,"Lemon","Kiwi");    // Banana,Orange,Lemo n,Kiwi,Mango
  #### 分解字符串（爆炸)
-          flet a = 'a-b-c-d';
+          let a = 'a-b-c-d';
           a.split('-');  //    ['a','b','c','d']
  ### Event Loop(js)
  #### 基础概念：
@@ -71,4 +71,10 @@
 
  4、当 微任务执行完后 执行宏任务，先进先出原则：console.log('2')、 console.log('6')
 
- 输出：     1、3、4、5、7、8、2、6、
+ 输出：     1、3、4、5、7、8、2、6
+
+ ### == 与 ===
+ <a>
+     <img src='../../assets/img/compare.png'/>
+ </a>
+

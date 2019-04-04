@@ -32,7 +32,8 @@ module.exports = {
                     "/siderPage/javascript/two.md",
                     "/siderPage/javascript/three.md",
                     "/siderPage/javascript/four.md",
-                    "/siderPage/javascript/five.md"
+                    "/siderPage/javascript/five.md",
+                    "/siderPage/javascript/six.md"
                 ]
             }, {
                 title: 'Vue',
