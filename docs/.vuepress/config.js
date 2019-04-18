@@ -46,7 +46,11 @@ module.exports = {
                 children: [ "/siderPage/nginx/" ]
             }, {
                 title: '包罗万象',
-                children: [ "/siderPage/cover/" ]
+                children: [
+                    "/siderPage/cover/",
+                    "/siderPage/cover/two.md",
+                    "/siderPage/cover/three.md"
+                ]
             }
         ]
     }
