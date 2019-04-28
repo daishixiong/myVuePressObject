@@ -50,7 +50,8 @@ module.exports = {
                 children: [
                     "/siderPage/cover/",
                     "/siderPage/cover/two.md",
-                    "/siderPage/cover/three.md"
+                    "/siderPage/cover/three.md",
+                    "/siderPage/cover/four.md"
                 ]
             }
         ]
